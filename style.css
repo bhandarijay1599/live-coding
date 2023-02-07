@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(226, 189, 220);
+}
+
+.heading{
+  background-color: rgb(135, 174, 204);
+    text-align: center;
+}
+
+.hyperlink{
+    display: inline;
+}
+.text{
+    background-color: rgb(135, 174, 204);
+}
+.head{
+ text-align: center;
+}
